@@ -14,7 +14,7 @@ always searching a way to grow and continue learning
 in the infinite ocean of development as a tool for self-growing and satisfaction. 
 </p>
 <p>
-<h4>How to contact me<?/h4>
+<h4>How to contact me?</h4>
 <a href='mailto:ccampos@dvt.cl?subject=Hi%20Carlos!,%20I%20want%20to%20contact%20you'>just write me 👌!</a>
 </p>
 </section>
