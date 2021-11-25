@@ -43,7 +43,7 @@ let currentSkills = {
     - 🔘🔘🔘,
 - ![APIrest](https://api.iconify.design/logos/cloudlinux.svg) `APIrest/Express`
     - 🔘🔘,
-- ![Firebase](https://api.iconify.design/logos/firebase.svg)![Firebase](https://api.iconify.design/logos/google-cloud.svg) `Firebase/Cloud`
+- ![Firebase](https://api.iconify.design/logos/firebase.svg)![Firebase](https://api.iconify.design/logos/google-cloud-functions.svg) `Firebase/Cloud`
     - 🔘🔘🔘🔘,
 }
 
