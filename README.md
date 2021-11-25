@@ -52,7 +52,7 @@ let currentSkills = {
 ![NextJS](https://api.iconify.design/logos/nextjs-icon.svg?width=30)`NextJS`,
 ![Tailwind](https://api.iconify.design/logos/tailwindcss-icon.svg?width=30)`Tailwindcss`,
 ![Electron](https://api.iconify.design/logos/electron.svg?width=30)`Electron`,
-![React Native](https://api.iconify.design/logos/react.svg?width=20)  `React Native`,
+![React Native](https://api.iconify.design/logos/react.svg?width=30)  `React Native`,
 
 
 <h4>Best wishes</h4>
